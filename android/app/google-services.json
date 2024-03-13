@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "435668675151",
+    "firebase_url": "https://gift-td.firebaseio.com",
+    "project_id": "gift-td",
+    "storage_bucket": "gift-td.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435668675151:android:21d2617fa48c0b748c183a",
+        "android_client_info": {
+          "package_name": "com.gftd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435668675151-f4dkmm5dj4l0oqau0qrds3e0jp0sk680.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gftd",
+            "certificate_hash": "cce1734b8d5f4bbe5338835e83a656f88f3ced10"
+          }
+        },
+        {
+          "client_id": "435668675151-pimhlvp5k0irc0lfrug19tpsqrbknk51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gftd",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "435668675151-vb2au3kc69v2osgfvh226dei4hbbjl85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gftd",
+            "certificate_hash": "3d88ec71c15eae54c7b745747565443c6cbb2321"
+          }
+        },
+        {
+          "client_id": "435668675151-u31vev5ue52dc0mmnkfj08ao55m55b41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnouCmC_8R9ldPcIn4GG_MkbgU-numkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435668675151-u31vev5ue52dc0mmnkfj08ao55m55b41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435668675151-09b3jkphsbvckhofpff492e8f579u995.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cw.gftd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

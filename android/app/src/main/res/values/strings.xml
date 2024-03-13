@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">getGFTD</string>
+    <string name="facebook_app_id">835432954384902</string>
+    <string name="facebook_client_token">fc8145a9ebe234452ec8b8603cd9eb12</string>
+</resources>
