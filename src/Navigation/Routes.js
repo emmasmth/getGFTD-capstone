@@ -48,7 +48,6 @@ import TNC from '../Screens/App/TNC';
 import ATNC from '../Screens/Auth/ATNC';
 import PNP from '../Screens/App/PNP';
 import EditWishes from '../Screens/App/EditWishes';
-import SignupInfo from '../Screens/Auth/CompleteProfile';
 import Profile from '../Screens/App/Profile';
 import Splash from '../Screens/onBoard/Splash';
 import ProductDetails from '../Screens/App/ProductDetails';
@@ -939,7 +938,6 @@ const AuthStackScreens = () => (
         <AuthStack.Screen name="SelectSignupOption" component={SelectSignupOption} />
         <AuthStack.Screen name="OTP" component={OTP} />
         <AuthStack.Screen name="SignUp" component={SignUp} />
-        <AuthStack.Screen name="SignupInfo" component={SignupInfo} />
         <AuthStack.Screen name="ATNC" component={ATNC} />
         <AuthStack.Screen name="ForgotPassword" component={ForgotPassword} />
     </AuthStack.Navigator>
