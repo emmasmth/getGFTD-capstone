@@ -17,7 +17,10 @@ This project will consist of four main inclusions:
 
 ## Installation Instructions
 
-This code is being run and developed on [Xcode](https://developer.apple.com/xcode/). 
+This code is being run and developed on [Xcode](https://developer.apple.com/xcode/). To install the code, 
+'''
+npm install
+'''
 
 ## How to Run
 
