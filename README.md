@@ -30,7 +30,6 @@ This code is being run and developed on [Xcode](https://developer.apple.com/xcod
    ```
    npm install
    ```
-* This project uses node version 16.20.2.
    ```
    nvm use 16.20.2
    ```
