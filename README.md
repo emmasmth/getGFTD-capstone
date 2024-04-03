@@ -48,7 +48,7 @@ After completing the installation instructions, follow the steps listed below.
    npx react-native start
    ```
 
-* In a Finder window, open the ios folder.
+* In a Finder window, open the **ios** folder.
 * Double-click gftd.xcworkspace to open Xcode.
 * Build the project by clicking the **▶️** button.
 
