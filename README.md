@@ -9,6 +9,12 @@
 
 ## Project Description
 
+This project will consist of four main inclusions:
+1. Thank You Cards
+2. SMS Scheduling
+3. Environmental Brand Shopping Category
+4. Browser Extension
+
 ## Installation Instructions
 
 ## How to Run
