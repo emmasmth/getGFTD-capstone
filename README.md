@@ -19,8 +19,8 @@ This project will consist of four main inclusions:
 
 This code is being run and developed on [Xcode](https://developer.apple.com/xcode/). To install the code, complete the following steps: 
 
-1. Clone this repo by clicking the green **<> Code** button. Choose **SSH** and copy the URL to your clipboard.
-2. Open terminal and on the command line, type the following line, replacing the URL as indicated:
+* Clone this repo by clicking the green **<> Code** button. Choose **SSH** and copy the URL to your clipboard.
+* Open terminal and on the command line, type the following line, replacing the URL as indicated:
    ```
    git clone <paste URL>
    ```
