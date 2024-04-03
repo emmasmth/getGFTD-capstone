@@ -36,7 +36,7 @@ This code is being run and developed on [Xcode](https://developer.apple.com/xcod
 
 After completing the installation instructions, follow the steps listed below. 
 
-* Within the getGFTD-capstone directory in Terminal, type the following lines.
+* Within the getGFTD-capstone directory in Terminal, type the following lines:
 
    ```
    nvm use 16.20.2
@@ -49,7 +49,7 @@ After completing the installation instructions, follow the steps listed below.
    ```
 
 * In a Finder window, open the **ios** folder.
-* Double-click gftd.xcworkspace to open Xcode.
+* Double-click **gftd.xcworkspace** to open Xcode.
 * Build the project by clicking the **▶️** button.
 
 ## How to Test
